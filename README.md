@@ -37,5 +37,5 @@ This dashboard can support strategic decision-making in:
 - Online Retail Dataset from Kaggle
 
 ## Author
-- Chandana S R
-- Aspiring Data Analyst
+  Chandana S R  
+  Aspiring Data Analyst
