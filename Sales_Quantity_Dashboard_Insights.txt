@@ -1,0 +1,15 @@
+Sales & Quantity Metrics Dashboard - Key Insights
+
+1. Sales Show Early-Year Peak & Mid-Year Recovery
+   - January saw the highest sales (~85K), followed by a sharp decline until April (~32K).
+   - Sales recovered in July, but didn’t reach early-year levels, indicating seasonal or promotional factors early in the year.
+
+2. Sales and Quantity Don’t Always Correlate
+   - In the bar chart, some months (e.g., November) have high quantity but lower sales, hinting at lower-priced items or discounts.
+   - This suggests potential revenue leakage despite strong unit movement.
+
+3. United Kingdom Is the Top Market by Sales
+   - Based on the map, the UK dominates sales, far ahead of other countries.
+   - Suggests it’s a core market and should be a priority for marketing and inventory allocation.
+
+
